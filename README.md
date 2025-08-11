@@ -1,3 +1,11 @@
+## 🎯 About me:
+
+Passionate AI-software engineer focused on technology, data science, and AI.  
+I create AI-powered apps, automated trading bots, and immersive Roblox games 🕹️.  
+
+Always exploring new tech trends and building projects that turn ideas into impact. 🚀.
+
+
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
