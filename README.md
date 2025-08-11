@@ -3,7 +3,8 @@
 Passionate AI-software engineer focused on technology, data science, and AI.  
 I create AI-powered apps, automated trading bots, and immersive Roblox games 🕹️.  
 
-Always exploring new tech trends and building projects that turn ideas into impact. 🚀.
+Always exploring new tech trends and building projects that turn ideas into impact. 🚀,
+blending creativity with to deliver fun and immersive experiences
 
 
 ## 💻 Tech Stack:
