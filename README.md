@@ -1,5 +1,6 @@
 ## 👨‍💻 About Me
-AI-Software Engineer
+AI-Software Engineer.
+
 Obsessed with technology, data science, and AI 🤖.  
 I love building smart solutions, exploring how data tells stories, and making machines learn.
 I also enjoy building roblox games using LUA.
