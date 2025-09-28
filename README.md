@@ -1,9 +1,7 @@
 ## 👨‍💻 About Me
 AI-Software Engineer.
 
-Obsessed with technology, data science, and AI 🤖.  
-I love building smart solutions, exploring how data tells stories, and making machines learn.
-I also enjoy building roblox games using LUA.
+A highly motivated AI Software Engineer with a strong foundation in data science, machine learning, and intelligent system design. Skilled in Python, AI frameworks, and statistical methods to build adaptive, data-driven solutions. I also develop Roblox games with Lua, blending creativity and technical precision to create engaging, innovative applications.
 
 # 💼 My Expertise
 
