@@ -42,6 +42,7 @@ A highly motivated AI Software Engineer with a strong foundation in data science
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FF6B6B?style=for-the-badge&logo=appwrite&logoColor=white)
 ![PocketBase](https://img.shields.io/badge/PocketBase-1E1E1E?style=for-the-badge&logo=pocketbase&logoColor=white)
+![Nhost](https://img.shields.io/badge/Nhost-430098?style=for-the-badge&logo=nhost&logoColor=white)
 
 ---
 
