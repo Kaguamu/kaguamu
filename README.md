@@ -32,7 +32,7 @@ A highly motivated AI Software Engineer with a strong foundation in data science
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GoFiber](https://img.shields.io/badge/GoFiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 
 ---
