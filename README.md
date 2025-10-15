@@ -2,6 +2,9 @@
 AI-Software Engineer.
 
 A highly motivated AI Software Engineer with a strong foundation in data science, machine learning, and intelligent system design. Skilled in Python, AI frameworks, and statistical methods to build adaptive, data-driven solutions. I also develop Roblox games with Lua, blending creativity and technical precision to create engaging, innovative applications.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
+
 
 # 💼 My Expertise
 
