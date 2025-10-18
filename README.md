@@ -72,6 +72,7 @@ A highly motivated AI Software Engineer with a strong foundation in data science
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Apache Cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00BFA5?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ---
 
