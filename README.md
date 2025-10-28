@@ -60,9 +60,6 @@ A highly motivated AI Software Engineer with a strong foundation in data science
 ![Backendless](https://img.shields.io/badge/Backendless-0077FF?style=for-the-badge&logo=backendless&logoColor=white)
 ![Kuzzle](https://img.shields.io/badge/Kuzzle-8727FF?style=for-the-badge&logo=kuzzle&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
-![Nhost](https://img.shields.io/badge/Nhost-3B82F6?style=for-the-badge&logo=nhost&logoColor=white)
-
-
 ---
 
 ## 🗄️ Databases
